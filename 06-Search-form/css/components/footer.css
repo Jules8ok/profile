@@ -1,0 +1,32 @@
+/* Card design */
+.panel {
+	background-color: #494949;
+	color: #7C7A7A;
+	height: 100px;
+	margin-bottom: 0px;
+	margin-top: 50px;
+	position: relative;
+}
+
+.panel-body {
+	position: relative;
+}
+
+.JW {
+	position: absolute;
+	right: 10px;
+	top: 10px;
+}
+
+.design {
+	width: 30px;
+}
+
+.media {
+	width: 200px;
+	display: flex;
+	justify-content: space-around ;
+	position: absolute;
+	top: 10px;
+	left: 10px;
+}
